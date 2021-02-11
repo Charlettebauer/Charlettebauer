@@ -1,4 +1,4 @@
-![](images/Charlette Bauer Banner.png "Banner")
+<img src="images/Charlette Bauer Banner.png">
 
 Hi there 👋
 
