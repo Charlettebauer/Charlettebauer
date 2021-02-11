@@ -1,4 +1,4 @@
-![](https://document-export.canva.com/5zGqk/DAEV2o5zGqk/32/thumbnail/90ouVQJffBWYPW8g-fA53Q-0001-16779986439.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20210211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210211T205305Z&X-Amz-Expires=9940&X-Amz-Signature=6f08560439855ab6736d07bd84497958302b030fe43a14ebbda6b9d146765801&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2011%20Feb%202021%2023%3A38%3A45%20GMT "Banner")
+![]({"A?":"A","a":5,"d":"B","h":"www.canva.com","c":"DAEV2o5zGqk","i":"zdRhYpusSyxWz0eriq1aHQ","b":1613084107563,"A":{"C":"#f8f8f8"},"B":768,"C":384} "Banner")
 
 Hi there 👋
 
