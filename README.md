@@ -1,3 +1,5 @@
+![](/Users/charlettejeanbauer/Charlettebauer/flower banner.png)
+
 Hi there 👋
 
 👩‍💻 My name is Charlette Bauer and I am a full-stack software engineer with a focus on front-end applications. I am looking for a position where I can combine the creativity I developed as an artist, the critical thinking I expanded as a registered nurse and the years of problem-solving I utilized as a top level manager.
