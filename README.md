@@ -8,4 +8,4 @@ Hi there 👋
 
 ❤️ My desire has always been trying to figure out ways to help people. I've decided it doesn't always have to be a grand gesture but consistent small acts of kindness matter just as much!
 
-🌼 I would love to hear from you! Reach out to me on .
+🌼 I would love to hear from you! Reach out to me on Linkedin at https://www.linkedin.com/in/charlettebauer/.
