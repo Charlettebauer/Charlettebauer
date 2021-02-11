@@ -1,4 +1,4 @@
-![](/Users/charlettejeanbauer/Charlettebauer/flower banner.png)
+![](flower%20banner.png)
 
 Hi there 👋
 
