@@ -1,4 +1,4 @@
-![]({"A?":"A","a":5,"d":"B","h":"www.canva.com","c":"DAEV2o5zGqk","i":"zdRhYpusSyxWz0eriq1aHQ","b":1613084107563,"A":{"C":"#f8f8f8"},"B":768,"C":384} "Banner")
+![](images/Charlette Bauer Banner.png "Banner")
 
 Hi there 👋
 
