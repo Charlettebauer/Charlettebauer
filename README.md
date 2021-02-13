@@ -1,4 +1,4 @@
-<img src="flower%20banner%20(1).png" >
+<img src="Charlette%20Bauer%20Black%20Banner.png" >
 
 Hi there 👋
 
